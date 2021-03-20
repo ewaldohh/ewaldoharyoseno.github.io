@@ -450,11 +450,3 @@ section .title::after{
     }
     
 }
-
-@media (max-width: 690px){
-    .max-width {
-        padding: 0 23px;
-        margin: auto;
-    }
-    
-}
